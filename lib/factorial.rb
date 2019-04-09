@@ -16,32 +16,3 @@ def factorial(number)
     return number
   end
 end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# x = number
-# while x > 1 do 
-#  x -= 1
-#  number = number *= x 
-# end 
- 
-# return number
